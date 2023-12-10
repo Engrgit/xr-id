@@ -1,4 +1,4 @@
-![alt](./dev files/namer.jpg)
+![alt](./dev\files/namer.jpg)
 
 
 # inagije

@@ -19,7 +19,7 @@ Our paper is ArXived at: [Link](www.gamolstudio.com)
 ## Getting Started
 
 ### Installation
-To install ingije, you can simply clone this repo
+To install inagije, you can simply clone this repo
 ```
 run the core.cpp file in C++ environment
 ```

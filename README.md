@@ -1,4 +1,5 @@
-![alt](./devfiles/namer.jpg)
+![alt](./dev files/namer.jpg)
+
 
 # inagije
 This is the repository for the nickname algorithm by engrgit

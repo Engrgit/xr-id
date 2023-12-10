@@ -2,7 +2,7 @@
 
 
 # inagije
-This is the repository for the nickname algorithm by engrgit
+This is an identity generation system in virtual world of XR 
 
 - v0.1 - Inagije beta-version is now released!
 
